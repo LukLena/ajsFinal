@@ -1,0 +1,19 @@
+{
+  "name": "@luklena/ajsfinal",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luklena",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukLena/ajsFinal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LukLena/ajsFinal/issues"
+  },
+  "homepage": "https://github.com/LukLena/ajsFinal#readme",
+  "description": ""
+}
